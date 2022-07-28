@@ -63,6 +63,10 @@ flutter:
   assets:
      - images/CZ.png
      - images/redandblue.jpg
+     - images/Second screen.png
+     - images/3rd Screen.png
+     - images/Stories.jpg
+     - images/livescreen.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
